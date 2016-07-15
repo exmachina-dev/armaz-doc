@@ -12,7 +12,8 @@
           <li class="navlinks-container">
             <a class="navlinks-parent" href="javascript:void(0)">{{ page.language }}</a>
             <div class="navlinks-children">
-                  {% include navbarlink.html link='EN' %}
+                {% include navbarlink.html link=[site.baseurl 'EN'] %}
+                {% include navbarlink.html link=['/fr' 'FR'] %}
             </div>
           </li>
       </ul>
