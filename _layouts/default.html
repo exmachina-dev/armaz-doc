@@ -1,25 +1,9 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>{{ page.title }}</title>
-        <!-- link to main stylesheet -->
-        <link rel="stylesheet" type="text/css" href="/css/main.css">
-    </head>
-    <body>
-        <nav>
-            <ul>
-                <li><a href="/">Home</a></li>
-            </ul>
-        </nav>
-        <div class="container">
+---
+layout: base
+---
 
-            {{ content }}
+<div class="intro-header"></div>
 
-        </div><!-- /.container -->
-        <footer>
-            <ul>
-                <li><a href="https://github.com/exmachina-dev">ExMachina git repositories</a></li>
-            </ul>
-        </footer>
-    </body>
-</html>
+<div role="main" class="container">
+  {{ content }}
+</div>
