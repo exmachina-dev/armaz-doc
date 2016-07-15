@@ -14,6 +14,7 @@ Contents:
    01-general-information
    02-introduction
    03-basic-installation
+   07-specifications
 
 
 
