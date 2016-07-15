@@ -9,7 +9,7 @@ Welcome to Armaz user manual
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    01-general-information
    02-introduction
