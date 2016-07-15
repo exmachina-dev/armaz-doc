@@ -8,6 +8,14 @@
         <span class="icon-bar"></span>
       </button>
       <a class="navbar-brand" href="{{ site.url }}">{{ site.title }}</a>
+      <ul class="nav navbar-nav navbar-right">
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="javascript:void(0)">{{ page.language }}</a>
+            <div class="navlinks-children">
+                  {% include navbarlink.html link='EN' %}
+            </div>
+          </li>
+      </ul>
     </div>
 
     <div class="collapse navbar-collapse" id="main-navbar">
