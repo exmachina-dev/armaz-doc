@@ -266,3 +266,6 @@ texinfo_documents = [
 intersphinx_mapping = {
     'ertza': ('http://ertza.readthedocs.io/en/latest', None),
 }
+
+# Show todo lines
+todo_include_todos = True
