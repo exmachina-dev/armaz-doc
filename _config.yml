@@ -149,8 +149,14 @@ prose:
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
 
-#gems:
+gems:
+    - jekyll-multiple-languages
 #    - jekyll-paginate
 
+languages:
+    - 'en'
+    - 'fr'
+
+language_default: 'en'
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
