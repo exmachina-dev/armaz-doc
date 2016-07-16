@@ -28,16 +28,16 @@ Precautions
     Only qualified personnel should attempt to install, start-up, configure or troubleshoot this equipement.
 
 
-.. warning:: The motor might have high voltages presert whenever AC power is applied, even when the motor is not moving.
+.. warning:: The motor might have high voltages present whenever AC power is applied, even when the motor is not moving.
 
-.. warning:: Be sure the sytem is properly arthed/grounded before applying power.
+.. warning:: Be sure the sytem is properly earthed/grounded before applying power.
     Do not apply AC power before you ensure that earths/grounds are connected.
 
-.. warning:: Be sure that you are completely familiar with the safe operation and programming of this
+.. warning:: Be sure that you are completely familiar with the safe operation and configuration of this
     equipment. This equipment may be connected to other machines that have rotating parts
-    or parts that are controlled by this equipment. Improper use can cause serious or fatal Injury.
+    or parts that are controlled by this equipment. Improper use can cause serious or fatal injury.
 
-.. warning:: Improper operation or configuration of the drive may cause violent motion of the motor
+.. warning:: Improper operation or configuration of the motor may cause violent motion of the motor
     and driven equipment. Be certain that unexpected motor movement will not cause injury
     to personnel or damage to equipment. Peak torque of several times the rated motor
     torque can occur during control failure.
