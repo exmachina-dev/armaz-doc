@@ -17,7 +17,7 @@ Intended use: These motors are intended for indoor use in entertainment places
 .. todo:: Define places
 
 The motor must be protected from exposure to excessive or corrosive moisture, dust, dirt or abnormal ambient temperatures.
-The exact operating specifications are found in :doc:`07-specifications` section of this manual.
+The exact operating specifications are found in :doc:`specifications` section of this manual.
 The installation, connection, configuration and control of motors is a skilled operation and must be done by a qualified technician.
 
 Precautions

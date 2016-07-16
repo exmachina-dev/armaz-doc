@@ -4,7 +4,7 @@ Basic installation
 Introduction
 ------------
 
-.. warning:: You should read all the sections in :doc:`03-basic-installation` to ensure safe installation.
+.. warning:: You should read all the sections in :doc:`basic-installation` to ensure safe installation.
 
 This section describes the mechanical and electrical installation of the Armaz motor.
 
@@ -76,7 +76,7 @@ facing up and down. A space of 100 mm below and above the motor should be kept c
 This ensure that a sufficient airflow can circulate.
 
 The Armaz motor is designed to operate in an ambient temperature of 0 °C to 40 °C.
-Detail characteristics can be found in the :doc:`07-specifications` section.
+Detail characteristics can be found in the :doc:`specifications` section.
 
 .. warning:: The metal housing of the motor can become hot (45 °C) during normal operation.
 
