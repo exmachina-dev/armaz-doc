@@ -28,7 +28,7 @@ The components you will need to complete the basic installation are:
   * A computer running any OSC capable interface.
 
 * A data cable to connect the remote to the motor, depending of the remote type 
-  (might be a 5 point XLR cable or a cat5 Ethernet cable).
+  (might be a 5 point XLR cable or a Cat5 Ethernet cable).
 
 Tools and miscellaneous hardware
 
@@ -47,7 +47,7 @@ Mechanical installation and cooling requirements
 .. note:: Avoid locating the Armaz motor in the vicinity of corrosive
     substances or vapors, metal particles and dust.
 
-.. note:: Falure to meet cooling air flow requirements will reslut in reduced
+.. note:: Failure to meet cooling air flow requirements will result in reduced
     product lifetime and/or motor over temperature trips.
 
 The safe operation of this equipment depends upon its use in the environment.
@@ -75,7 +75,7 @@ For effective colling, the Armaz motor must be mounted with the aeration grids
 facing up and down. A space of 100 mm below and above the motor should be kept clear.
 This ensure that a sufficient airflow can circulate.
 
-The Armaz motor is designed to opertade in an ambient temperature of 0 °C to 40 °C.
+The Armaz motor is designed to operate in an ambient temperature of 0 °C to 40 °C.
 Detail characteristics can be found in the :doc:`07-specifications` section.
 
 .. warning:: The metal housing of the motor can become hot (45 °C) during normal operation.
