@@ -22,9 +22,11 @@ The components you will need to complete the basic installation are:
 * A STOPT emergency stop
 * A 3 point XLR cable
 * A remote controller. Possible choices are:
-  - A VARMO unit.
-  - A computer running :doc:`Ertza GUI <ertza:tools>` tool.
-  - A computer running any OSC capable interface.
+
+  * A VARMO unit.
+  * A computer running :doc:`Ertza GUI <ertza:tools>` tool.
+  * A computer running any OSC capable interface.
+
 * A data cable to connect the remote to the motor, depending of the remote type 
   (might be a 5 point XLR cable or a cat5 Ethernet cable).
 
