@@ -19,7 +19,7 @@ Standard features include:
   
 This manual is intended to guide you through the installation of Armaz motor. The sections should be read in sequence.
 
-The basic installation describe the mechanical installation of the Armaz, the power supply and digital inputs.
+:ref:`The basic installation <basic-installation>` describe the mechanical installation of the Armaz, the power supply and digital inputs.
 The other sections require basic knowledge of logic programmation and an understanding of computer software installation.
 If you are not qualified in these areas you should seek assistance before proceeding.
 
